@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and mobile apps
 - 🌱 I’m currently learning bootstrap 4, jQuery and more
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me : afiq.am10@gmail.com
+- 📫 Reach me : afiq.amirul10@gmail.com
 
 <!---
 FiqDev15/FiqDev15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
