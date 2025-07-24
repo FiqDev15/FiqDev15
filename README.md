@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @FiqDev15
-- 👀 I’m interested in web development and mobile apps
-- 🌱 I’m currently learning bootstrap 4, jQuery and more
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me : afiq.amirul10@gmail.com
+# Hi there, I'm Afiq Amirul Aiman
 
-<!---
-FiqDev15/FiqDev15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm currently pursuing a **Bachelor of Computer Science (Hons.) in Multimedia Computing**  
+💻 Passionate about **Web Development, Mobile App Development and Game Development**
+🤝 Open to collaboration on exciting and meaningful tech projects  
+📫 Feel free to reach out to me at **afiqamirulaiman@gmail.com**
+
+---
+
+### 🔧 Tech Stack & Tools:
+- HTML, CSS, JavaScript
+- Bootstrap, jQuery
+- Git & GitHub
+
+---
+
+### 📁 Projects & Assignments:
+Check out my repositories for academic projects, assignments, and experiments with code.
+
+---
+
+### 📫 Let's Connect!
+I'm always open to learning, collaboration, and new opportunities. Drop me an email or explore my work here on GitHub!
+
