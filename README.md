@@ -10,6 +10,7 @@
 ### 🔧 Tech Stack & Tools:
 - HTML, CSS, JavaScript
 - Bootstrap, jQuery
+- Flutter
 - Git & GitHub
 
 ---
