@@ -1,18 +1,17 @@
-# Hi there, I'm Afiq Amirul Aiman 👋
+# Hi there, I'm Afiq Amirul Aiman
 
-🎓 **Computer Science Student | Multimedia Computing**  
-💻 Interested in Web Development, Mobile App Development, and Game Development  
-🚀 Building projects, exploring new technologies, and continuously improving my skills.
+**Computer Science Student | Multimedia Computing**
 
-I'm currently pursuing a **Bachelor of Computer Science (Hons.) in Multimedia Computing** at UiTM Shah Alam. I enjoy turning ideas into practical projects, from websites and mobile applications to interactive games.
+I'm currently pursuing a **Bachelor of Computer Science (Hons.) in Multimedia Computing** at UiTM Shah Alam. I enjoy turning ideas into practical projects, from websites and mobile applications to interactive games, while continuously improving my technical skills.
 
-- 🌐 **Portfolio:** [afiqamirul.tech](https://afiqamirul.tech)
-- 📧 **Email:** [afiqamirulaiman@gmail.com](mailto:afiqamirulaiman@gmail.com)
-- 🤝 **Open to:** Collaboration, learning opportunities, and meaningful tech projects
+- **Portfolio:** [afiqamirul.tech](https://afiqamirul.tech)
+- **Email:** [afiqamirulaiman@gmail.com](mailto:afiqamirulaiman@gmail.com)
+- **GitHub:** [@FiqDev15](https://github.com/FiqDev15)
+- **Open to:** Collaboration, learning opportunities, and meaningful tech projects
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages & Web Development**
 
@@ -34,7 +33,7 @@ I'm currently pursuing a **Bachelor of Computer Science (Hons.) in Multimedia Co
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 Here are some of the projects I've worked on:
 
@@ -44,11 +43,11 @@ Here are some of the projects I've worked on:
 - **[ALL IT Hypermarket Chatbot](https://github.com/FiqDev15)** – A chatbot project focused on product discovery and customer assistance.
 - **Game Development Projects** – Interactive games developed using Unity and Construct 2.
 
-*Explore my repositories for more projects, academic assignments, and experiments.*
+Explore my repositories for more projects, academic assignments, and coding experiments.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FiqDev15&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
@@ -57,12 +56,7 @@ Here are some of the projects I've worked on:
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always looking forward to learning from others, collaborating on interesting projects, and exploring new opportunities in tech.
-
-🌐 **Portfolio:** [afiqamirul.tech](https://afiqamirul.tech)  
-📧 **Email:** [afiqamirulaiman@gmail.com](mailto:afiqamirulaiman@gmail.com)  
-💻 **GitHub:** [@FiqDev15](https://github.com/FiqDev15)
-
-*Thanks for visiting my profile! Feel free to explore my work.* ✨
+Thanks for visiting my profile. Feel free to explore my work.
