@@ -40,7 +40,6 @@ Here are some of the projects I've worked on:
 - **[UiTM E-Merit Mobile Application](https://github.com/FiqDev15)** – A mobile application project focused on student merit attendance.
 - **[DemocraTech](https://github.com/FiqDev15/DemocraTech)** – A digital voting system developed using Java and Apache Derby.
 - **[Ucapan Raya Website](https://ucapan-raya.vercel.app/)** – A website created to share festive Hari Raya greetings.
-- **[ALL IT Hypermarket Chatbot](https://github.com/FiqDev15)** – A chatbot project focused on product discovery and customer assistance.
 - **Game Development Projects** – Interactive games developed using Unity and Construct 2.
 
 Explore my repositories for more projects, academic assignments, and coding experiments.
