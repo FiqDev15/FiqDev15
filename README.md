@@ -1,4 +1,4 @@
-# Hi there, I'm Afiq Amirul Aiman
+# Haiiii, I'm Afiq Amirul Aiman
 
 **Computer Science Student | Multimedia Computing**
 
